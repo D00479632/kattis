@@ -69,23 +69,27 @@ In the last sample case, we can assign one color to all students
 from classes A, B and C, and a different color to all students from
 classes D and E. So the answer is 2.  
 
-**Sample Input 1    Sample Output 1**
-> 2 3 2             1
-> AAB
-> ABB
+| **Sample Input 1** | **Sample Output 1** |
+|:-------------------|:--------------------|
+| 2 3 2              | 1 |
+| AAB             
+| ABB
 
-**Sample Input 2    Sample Output 2**
-> 2 2 3             2
-> AC
-> BC
+| **Sample Input 2** | **Sample Output 2** |
+|:-------------------|:--------------------|
+| 2 2 3              | 2 |
+| AC
+| BC
 
-**Sample Input 3    Sample Output 3**
-> 2 3 3             3
-> ABC
-> ABC
+| **Sample Input 3** | **Sample Output 3** |
+|:-------------------|:--------------------|
+| 2 3 3              | 3 |
+| ABC
+| ABC
 
-**Sample Input 4    Sample Output 4**
-> 3 5 5             2
-> ABECE
-> BCDAE
-> CADBD
+| **Sample Input 4** | **Sample Output 4** |
+|:-------------------|:--------------------|
+| 3 5 5              | 2 |
+| ABECE
+| BCDAE
+| CADBD
