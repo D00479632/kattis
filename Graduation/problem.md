@@ -4,7 +4,7 @@
 
 The school administration has encountered a problem with the upcoming 
 school graduation, a problem which they hope you can help them resolve. 
-During the graduation ceremony, students will stand in N rows with M 
+During the graduation ceremony, students will stand in `N` rows with `M` 
 students in each row. The administration wants the graduation to be 
 as colorful as possible and will therefore hand out hats in different 
 colors for the students.  
@@ -27,10 +27,10 @@ The first line contains three integers `N, M (1 <= N, M <= 700)`
 and `K (1 <= K <= 26)` – the number of lines, the number of
 columns, and the number of classes.  
 
-Then N lines follow, each with M characters, describing how the
-students will be lined up in the graduation. The character in row i
-and column j is an uppercase letter between A and the Kth letter
-of the alphabet – the class to which the student in row i, column j 
+Then `N` lines follow, each with `M` characters, describing how the
+students will be lined up in the graduation. The character in row `i`
+and column `j` is an uppercase letter between A and the Kth letter
+of the alphabet – the class to which the student in row `i`, column `j`
 belongs. It is guaranteed that each class has at least one student.  
 
 ## Output
@@ -44,9 +44,9 @@ same class have the same hat color.
 
 | Group | Points | Bounds |
 |:------|:-------|:-------|
-| 1     | 15     | N, M<=5 |
-| 2     | 15     | k = 2 |
-| 3     | 35     | N, M<=50 |
+| 1     | 15     | `N`, `M`<=5 |
+| 2     | 15     | `K` = 2 |
+| 3     | 35     | `N`, `M`<=50 |
 | 4     | 35     | No additional constraints |
 
 ## Explanation of sample cases
