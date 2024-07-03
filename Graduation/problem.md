@@ -1,7 +1,6 @@
+[Kattis problem](https://open.kattis.com/problems/skolavslutningen)
 
 # Graduation
-
-[Kattis problem](https://open.kattis.com/problems/skolavslutningen)
 
 The school administration has encountered a problem with the upcoming 
 school graduation, a problem which they hope you can help them resolve. 
