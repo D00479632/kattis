@@ -23,8 +23,8 @@ assigned to the students.
 
 ## Input
 
-The first line contains three integers 'N, M (1 <= N, M <= 700)'
-and 'K (1 <= K <= 26)' – the number of lines, the number of
+The first line contains three integers `N, M (1 <= N, M <= 700)`
+and `K (1 <= K <= 26)` – the number of lines, the number of
 columns, and the number of classes.  
 
 Then N lines follow, each with M characters, describing how the
