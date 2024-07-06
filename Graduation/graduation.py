@@ -6,6 +6,3 @@
 # assigned to the students so that all the students in the same column have the same hat color,
 # and also all students in the same class have the same hat color.
 
-import sys
-
-data = sys.stdin
